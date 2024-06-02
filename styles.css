@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.auto-style10 {
+    font-size: 24px;
+    font-weight: bold;
+}
+.auto-style1 {
+    font-size: 18px;
+}
+.auto-style11 {
+    font-size: 16px;
+}
+.auto-style24 {
+    font-size: 14px;
+}
+.auto-style28 {
+    font-weight: bold;
+}
+.auto-style27 {
+    font-style: italic;
+}
+.auto-style21 {
+    font-weight: bold;
+}
+.auto-style18 {
+    font-size: 20px;
+}
+.auto-style12 {
+    font-size: 16px;
+}
+/* Estilos para la imagen */
+.h- {
+    max-width: 100%;
+    height: auto;
+}
+/* Estilos para la imagen del cliente */
+.imagen-cliente {
+    max-width: 100%;
+    height: auto;
+}
